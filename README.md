@@ -3,7 +3,7 @@
   I have currently completed some projects to prove my capabilities and also taken a course on Cisco Data Analytics essentials with certificate earned
   
  How to reach me
-  linkedin - https://www.linkedin.com/in/chijindu-okpalanweze
+  linkedin - https://www.linkedin.com/in/chijindu-okpalanweze-358b7b174/
 
 
 <!---
