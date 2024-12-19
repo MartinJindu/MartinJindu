@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm a passionate and dedicated developer with a di
 
 ## 🖌️ Let's Connect
 - **Email**: martinchijindu@gmail.com
-- **LinkedIn**: [Your LinkedIn Profile]
+- **LinkedIn**: https://www.linkedin.com/in/chijindu-okpalanweze-358b7b174/
 - **Portfolio**: GitHub for now.
 
 Feel free to explore my repositories and reach out if you'd like to collaborate on a project or have any questions!
